@@ -12,6 +12,8 @@ You will be able to retrieve:
 - Mods installed in the server
 - Player's skin and face
 
+**Using:** `PHP-Minecraft-Query from xPaw`
+
 ### Examples
 ```php
 <?php
